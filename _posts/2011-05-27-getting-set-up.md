@@ -1,6 +1,7 @@
 ---
 title: "Getting Everything Set Up"
 author: "Charlie Park"
+slug: "getting-everything-set-up"
 ---
 # This is just a test of MarkDown
 

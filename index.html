@@ -4,7 +4,7 @@ title: The Monotask Blog
 ---
 {% for post in site.posts limit:10 %}
 	<article>
-    <h2><a href='http://blog.monotask.com/{{post.title}}'>{{post.title}}</a></h2>
+    <h2><a href='http://blog.monotask.com/{{post.slug}}'>{{post.title}}</a></h2>
     <p class="meta">{{post.author}} &bull; <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time></p>
     {{post.content}}
 	</article>
