@@ -115,8 +115,8 @@ blockquote p{padding:0}
 blockquote p+p{padding-top:1em}
 p+pre{margin:-1em 0 1em}
 
+span.author{border-left:1px solid #bbb;display:inline;margin-left:15px;padding:0 0 0 10px;}
 strong{font-weight:bold;line-height:1em;}
-
 section{margin:0 10px 20px;padding:0 0 40px;}
 
 th.service{font-weight:bold;padding:0 10px;text-align:right}
