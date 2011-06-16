@@ -33,7 +33,7 @@ div.gs-webResult.gs-result{padding:0 10px}
 .gsc-search-button{display:none}
 .gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl{color:#666 !important}
 .gs-result .gs-title, .gs-result .gs-title *{color:#c00 !important;font-size:14px !important;font-weight:bold !important; text-decoration:none !important}
-.site_title{font-size:160px;padding:30px 0 0;text-align:center;text-transform:lowercase;word-spacing:5px;}
+.site_title{font-size:100px;padding:30px 0 0;text-align:center;text-transform:lowercase;word-spacing:5px;}
 .post_title{font-size:60px;padding:1em 0 .2em 1em;text-indent:-1em;text-transform:uppercase;}
 
 body, input, select, textarea{color:#000;font-family:'helvetica neue',helvetica,arial,sans-serif;font-size:14px;line-height:1.618}
@@ -129,7 +129,7 @@ ul.tag_list{margin-left:52px;padding-bottom:10px;}
 
 
 @media screen and (max-device-width: 480px) {
-	.site_title{font-size:40px;padding-top:10px;}
+	.site_title{font-size:50px;padding-top:10px;}
 	html{background:#fff}
 }
 @media screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait){	
