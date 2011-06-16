@@ -42,7 +42,7 @@ a{color:#c00;text-decoration:none;}
 h1 a, h2 a{color:inherit}
 h5.subscribe a{color:inherit}
 a.archive_list_article_link{color:#000}
-a.nav_list_link{display:inline-block;padding:5px 0}
+a.nav_list_link{display:inline-block;padding:5px}
 a.no_formatting{color:inherit}
 a.tag_list_link{border-left: 1px solid #ccc;color:#888;font-size:11px;margin:0;padding: 0 6px;}
 a.tag_list_link:first-child{border:0}
@@ -100,7 +100,7 @@ ul.tags li:first-child{border:0;padding-left:0}
 ul ul li{list-style:circle;}
 li.archive_list{list-style:none;margin:0;padding-bottom:10px;}
 li.inline{display:inline}
-li.nav_list_item{display:inline-block;margin:0;position:relative;width:90px;}
+li.nav_list_item{display:inline-block;margin:5px 10px;position:relative;}
 li.tag_list_item{line-height:1;list-style:none;margin:0;}
 
 
