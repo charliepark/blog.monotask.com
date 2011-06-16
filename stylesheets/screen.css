@@ -116,6 +116,7 @@ blockquote p+p{padding-top:1em}
 p+pre{margin:-1em 0 1em}
 
 span.author{border-left:1px solid #bbb;color:#888;display:inline;margin-left:10px;padding:0 0 0 10px;}
+span.summary_intro{color:#000;font-variant:small-caps;text-transform:lowercase;}
 strong{font-weight:bold;line-height:1em;}
 section{margin:0 10px 20px;padding:0 0 40px;}
 
