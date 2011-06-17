@@ -122,7 +122,7 @@ th.service{font-weight:bold;padding:0 10px;text-align:right}
 time.archive_list_post_date{color:#666;float:left;font-size:11px;padding-top:4px}
 
 ul#nav{float:left;font-size:16px;font-variant:small-caps;font-weight:bold;line-height:1;margin:-14px 0 0 16px;text-align:center;text-transform:lowercase;}
-ul.tag_list_in_post{border-left:1px solid #bbb;display:inline;margin-left:10px;padding:0 0 0 10px;}
+ul.tag_list_in_post{border-left:1px solid #bbb;display:inline;margin-left:10px;padding:0 0 0 5px;}
 ul.tags{float:right;width:280px}
 ul.tag_list{margin-left:52px;padding-bottom:20px;}
 
