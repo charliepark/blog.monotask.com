@@ -74,7 +74,7 @@ header:after{display:block;clear:both;content:'';float:none;height:1px;}
 h1, h2, h3, h4, h5, h6{font-weight:bold;line-height:1;padding-bottom:.2em;}
 h1, h2, h3 {font-family:"LeagueGothicRegular", helvetica,"League Gothic", "Helvetica Neue", helvetica, arial, sans-serif;font-weight:normal;letter-spacing:-1px;}
 h2{font-size:50px}
-h3{font-size:30px;padding-top:20px;}
+h3{font-size:40px;padding-top:20px;}
 h3.archive_list_header{float:right;line-height:1.2;padding:0 0 5px 20px;text-indent:-20px;width:424px;}
 h3.project_header{padding-top:60px;}
 h2 + h3.project_header{padding-top:20px;}
