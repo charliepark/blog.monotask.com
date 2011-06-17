@@ -57,7 +57,7 @@ body{margin:0 auto;padding:0 0 100px;position:relative;width:520px;}
 code{font-family:monaco,monospace;font-size:.9em}
 pre code{background:#f6f6f6;border:1px solid #eee;display:block;overflow:auto;padding:10px 14px;}
 dd{border-left:5px solid #E5F2FF;margin:0 0 1em 10px;padding:0 0 0 10px;}
-div.meta_wrapper{border:1px solid #C9C6C3;border-width:1px 0;color:#666;font-size:12px;line-height:20px;margin:0 0 20px;padding:0 0 1px;text-transform:uppercase}
+div.meta_wrapper{border:1px solid #C9C6C3;border-width:1px 0;color:#888;font-size:11px;line-height:20px;margin:0 0 20px;padding:0 0 1px;text-transform:uppercase}
 div.project{background:#f6f6f6;border:1px solid #eee;float:left;height:80px;margin:0 20px 20px 0;padding:10px;width:130px;}
 div.project.col3{margin-right:0}
 div.update_box{background:#f6f6f6;border:1px solid #eee;font-size:13px;margin-bottom:1em;padding:8px 10px 0}
@@ -112,14 +112,14 @@ blockquote p{padding:0}
 blockquote p+p{padding-top:1em}
 p+pre{margin:-1em 0 1em}
 
-span.author{border-left:1px solid #bbb;color:#888;display:inline;font-size:11px;margin-left:10px;padding:0 0 0 10px;}
+span.author{border-left:1px solid #bbb;margin-left:10px;padding:0 0 0 10px;}
 span.summary_intro{color:#000;font-variant:small-caps;text-transform:lowercase;}
 strong{font-weight:bold;line-height:1em;}
 section{margin:0 10px 20px;padding:0 0 40px;}
 
 th.service{font-weight:bold;padding:0 10px;text-align:right}
 
-time.archive_list_post_date{color:#666;float:left;font-size:11px;padding-top:4px}
+time.archive_list_post_date{color:#666;float:left;padding-top:4px}
 
 ul#nav{float:left;font-size:16px;font-variant:small-caps;font-weight:bold;line-height:1;margin:-14px 0 0 10px;text-align:center;text-transform:lowercase;}
 ul.tag_list_in_post{border-left:1px solid #bbb;display:inline;margin-left:10px;padding:0 0 0 5px;}
